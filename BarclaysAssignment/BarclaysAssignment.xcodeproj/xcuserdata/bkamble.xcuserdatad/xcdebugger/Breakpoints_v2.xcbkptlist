@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F73CD181-02BF-4A0A-ADAB-1963A01BFA1E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2355835-1EE8-408B-B70A-98E0AF5D5949"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarclaysAssignment/UITableViewCell/AdditionalDetailsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "configureAdditionalTransactionInfoCell(transactionAdditionalData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2355835-1EE8-408B-B70A-98E0AF5D5949 - 619cb9284a74c020"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BarclaysAssignment.AdditionalDetailsTableViewCell.configureAdditionalTransactionInfoCell(transactionAdditionalData: Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; ()"
+                  moduleName = "BarclaysAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bkamble/Assignment/BarclaysAssignment/BarclaysAssignment/UITableViewCell/AdditionalDetailsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "D2355835-1EE8-408B-B70A-98E0AF5D5949 - 619cb9284a74c020"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BarclaysAssignment.AdditionalDetailsTableViewCell.configureAdditionalTransactionInfoCell(transactionAdditionalData: Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; ()"
+                  moduleName = "BarclaysAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bkamble/Assignment/BarclaysAssignment/BarclaysAssignment/UITableViewCell/AdditionalDetailsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

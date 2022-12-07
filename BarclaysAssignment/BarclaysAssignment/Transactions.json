@@ -1,0 +1,112 @@
+{
+    "transactionGroups": [
+        {
+            "label": "Today",
+            
+            "transactions": [
+                {
+                    "heading": "Amazon",
+                    "amount": "- £1.99",
+                    "categoryColour": "black",
+                    
+                    "additionalDetails": [
+                        {
+                            "Description": "Costa - Manchester"
+                        },
+                        {
+                            "Balance After Transaction": "\u00a3998.56"
+                        },
+                        {
+                            "Payment Method": "Debit transaction"
+                        },
+                        {
+                            "Reference": "23-192-1234567"
+                        },
+                        {
+                            "Account": "65-43-21 44332211"
+                        }
+                    ],
+                }
+            ]
+        },
+        {
+            "label": "Yesterday",
+            "transactions": [
+                {
+                    "heading": "Costa",
+                    "amount": "- £2.99",
+                    "categoryColour": "Green",
+                    
+                    "additionalDetails": [
+                        {
+                            "Description": "Costa - Manchester"
+                        },
+                        {
+                            "Balance After Transaction": "\u00a3998.56"
+                        },
+                        {
+                            "Payment Method": "Debit transaction"
+                        },
+                        {
+                            "Reference": "23-192-1234567"
+                        },
+                        {
+                            "Account": "65-43-21 44332211"
+                        }
+                    ],
+                },
+                {
+                    "heading": "Vodafone",
+                    "amount": "- £1.99",
+                    "categoryColour": "red",
+                    
+                    "additionalDetails": [
+                        {
+                            "Description": "Costa - Manchester"
+                        },
+                        {
+                            "Balance After Transaction": "\u00a3998.56"
+                        },
+                        {
+                            "Payment Method": "Debit transaction"
+                        },
+                        {
+                            "Reference": "23-192-1234567"
+                        },
+                        {
+                            "Account": "65-43-21 44332211"
+                        }
+                    ],
+                }
+            ]
+        },
+        {
+            "label": "Sat, 12th Nov",
+            "transactions": [
+                {
+                    "heading": "Paypal",
+                    "amount": "- £5.99",
+                    "categoryColour": "blue",
+                    
+                    "additionalDetails": [
+                        {
+                            "Description": "Costa - Manchester"
+                        },
+                        {
+                            "Balance After Transaction": "\u00a3998.56"
+                        },
+                        {
+                            "Payment Method": "Debit transaction"
+                        },
+                        {
+                            "Reference": "23-192-1234567"
+                        },
+                        {
+                            "Account": "65-43-21 44332211"
+                        }
+                    ],
+                }
+            ]
+        }
+    ]
+}
