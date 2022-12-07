@@ -34,6 +34,14 @@ final class BarclaysAssignmentTests: XCTestCase {
         XCTAssertEqual(transactionGroup.count, 3)
     }
     
+    func test_FirstTransactionJsonMapping() {
+        let firstTransaction = transactionGroup.first
+        XCTAssertNotNil(firstTransaction?.transactions[0])
+        XCTAssertEqual(firstTransaction?.transactions[0].amount, "- £1.99")
+        XCTAssertEqual(firstTransaction?.transactions[0].categoryColour, "black")
+        XCTAssertEqual(firstTransaction?.transactions[0].heading, "Amazon")
+    }
+    
     func test_CheckCategoryColor() {
         XCTAssertNotNil(transactionGroup[0].transactions[0].categoryColour)
         XCTAssertEqual(transactionGroup[0].transactions[0].categoryColour, "black")
