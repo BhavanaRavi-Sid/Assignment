@@ -8,7 +8,9 @@
 import UIKit
 
 class TransactionListViewController: UIViewController {
-    
+    //Constant
+    let heightForTableViewCell: CGFloat = 60
+ 
     @IBOutlet weak var transactionTableView: UITableView!{
         didSet {
             transactionTableView.delegate   = self
@@ -38,7 +40,7 @@ class TransactionListViewController: UIViewController {
 extension TransactionListViewController: UITableViewDataSource, UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 60
+        return heightForTableViewCell
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

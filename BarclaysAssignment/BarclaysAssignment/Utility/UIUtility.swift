@@ -18,12 +18,6 @@ extension UIView {
 
 extension UILabel {
     func makeRoundedLabel() {
-        //        roundedLabelLogo.backgroundColor = .orange
-        //        roundedLabelLogo.textColor = .white
-        //        roundedLabelLogo.layer.cornerRadius = roundedLabelLogo.bounds.width / 2
-        //        roundedLabelLogo.layer.masksToBounds = true
-        //        roundedLabelLogo.textAlignment = .center
-
         self.textColor = .white
         self.layer.cornerRadius = self.bounds.width / 2
         self.layer.masksToBounds = true

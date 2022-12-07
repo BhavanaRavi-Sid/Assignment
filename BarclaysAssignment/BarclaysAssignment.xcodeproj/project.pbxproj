@@ -129,19 +129,19 @@
 		4152EC39293E4C2D00174F9F /* BarclaysAssignment */ = {
 			isa = PBXGroup;
 			children = (
-				41EA6B87293F98660059B107 /* TransactionDetails */,
+				4152EC3C293E4C2D00174F9F /* SceneDelegate.swift */,
 				4152EC3A293E4C2D00174F9F /* AppDelegate.swift */,
 				4152EC86293F11FA00174F9F /* Transactions.json */,
-				4152EC85293F11E600174F9F /* JSONUtils */,
 				4152EC76293F09EC00174F9F /* TransactionList */,
-				4152EC3C293E4C2D00174F9F /* SceneDelegate.swift */,
+				41EA6B87293F98660059B107 /* TransactionDetails */,
+				4152EC85293F11E600174F9F /* JSONUtils */,
 				4152EC6D293E637F00174F9F /* UITableViewCell */,
+				41EA6B84293F8B9F0059B107 /* Utility */,
 				4152EC40293E4C2D00174F9F /* Main.storyboard */,
 				4152EC46293E4C2E00174F9F /* Assets.xcassets */,
 				4152EC48293E4C2E00174F9F /* LaunchScreen.storyboard */,
 				4152EC4B293E4C2E00174F9F /* Info.plist */,
 				4152EC43293E4C2D00174F9F /* BarclaysAssignment.xcdatamodeld */,
-				41EA6B84293F8B9F0059B107 /* Utility */,
 			);
 			path = BarclaysAssignment;
 			sourceTree = "<group>";
